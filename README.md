@@ -10,10 +10,10 @@ This toolchain include:
 
   Other tools can be added easily.
 
-* GNU C and C++ compilers
+* GNU C and C++ compilers (gcc-4.6.3)
 * GNU assembler and linker
 * C and C++ runtime libraries
-* GNU debugger
+* GNU debugger (gdb-7.3.1)
 
 
 How do I use it?
